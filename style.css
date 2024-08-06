@@ -1,0 +1,27 @@
+.main{
+    text-align: center;
+}
+.bg img{
+    width: 1024px;
+    height: 1920;   
+}
+.social{
+    position: relative;
+    top: -200px;  
+}
+.whatsApp{
+    width: 30px;
+    height: 30px;   
+}
+.fb{
+    width: 30px;
+    height: 30px;
+}
+.ig{
+    width: 30px;
+    height: 30px;
+}
+.social img{
+    margin: 70px;
+    
+}
